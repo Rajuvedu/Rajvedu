@@ -1,2 +1,2 @@
 # Rajvedu
-first time making a git repository
+ki hal chal
